@@ -1,0 +1,15 @@
+E:\Github\ToDoList\bin\Debug\net6.0\ToDoList.exe
+E:\Github\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+E:\Github\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+E:\Github\ToDoList\bin\Debug\net6.0\ToDoList.dll
+E:\Github\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.dll
+E:\Github\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+E:\Github\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+E:\Github\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
